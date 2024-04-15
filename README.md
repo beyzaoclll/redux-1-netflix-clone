@@ -8,10 +8,4 @@
 - axios
 - millify
 
-# Kaynaklar
-
-- API:https://developer.themoviedb.org/reference/intro/getting-started
-
-- RESİM ADRESİ:https://image.tmdb.org/t/p/original
-
 # redux-1-netflix-clone
